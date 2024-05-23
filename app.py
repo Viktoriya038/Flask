@@ -5,4 +5,4 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     
-    return f'Hello, мой друг прекраснйы {summa(1, 2)}!'
+    return f'Здаровеньки!!!, мой друг прекраснйы {summa(1, 2)}!'
